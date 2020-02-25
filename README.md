@@ -21,3 +21,8 @@
 [Source video](https://www.youtube.com/watch?v=5Kqyhu_eIcw)
 
 [Source code](https://home.aveek.io/blog/post/build-a-documentation-site-with-vuepress/)
+
+## Team Slide
+![](teamslide.png)
+
+
