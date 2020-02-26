@@ -1,0 +1,50 @@
+module.exports = {
+    title: 'Coursetro training',
+    description: 'All about vuepress' ,
+  themeConfig: {
+      nav: [ 
+          {text: 'Guide',link:'/Guide/'},
+          {text: 'github',link:'https://github.com/swaroopatirumalareddy/vuepress'},
+         
+      ],
+      sidebar: {
+          '/guide/':[
+              '',
+              'frontend',
+              'backend'
+          ]
+      }
+  }
+}
+*********************************************************************
+---
+home: true
+heroText: Vuepress
+tagline: Vuepress tittle
+actionText: Get Started →
+actionLink: /guide/
+features:
+- title: Simplicity First
+  details: Minimal setup with markdown-centered project structure helps you focus on writing.
+- title: Vue-Powered
+  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+- title: Performant
+  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+footer: MIT Licensed | Copyright © 2018-present Evan You
+---
+************************************************************************************************************************************
+# Guide
+
+Coursetro allows people like yourself to learn from a wide variety of topics that pertain to both design and development 
+  
+
+  ## Other Considerations 
+
+  you should definitely check out the official [Coursetro.com](https://coursetro.com)website for information
+
+ 
+
+*******************************************************************************************************************************************************  
+# frontend develeopment
+ 
+This is more information about frontend development learning content from  Coursetro.com
